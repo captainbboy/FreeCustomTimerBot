@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "prefix": ".",
+  "botstatusmessage": "Sending out Alerts!",
+  "serverid": "",
+  "color": "BLUE",
+  "tagonalert": "false",
+  "dmonalert": "false",
+  "alertroleid": "0",
+  "alertchannelid": "0",
+  "adminroleid": "0",
+  "currentalerts": []
+}
