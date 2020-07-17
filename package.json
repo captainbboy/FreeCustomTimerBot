@@ -1,0 +1,30 @@
+{
+  "name": "freecustomtimerbot",
+  "version": "1.0.0",
+  "description": "Use this bot to plan raids, times to take outpost, etc. This bot is open source and completely customizable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainbboy/FreeCustomTimerBot.git"
+  },
+  "keywords": [
+    "bot",
+    "discordjs",
+    "discord.js",
+    "discordbot",
+    "discord"
+  ],
+  "author": "captain_bboy",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/captainbboy/FreeCustomTimerBot/issues"
+  },
+  "homepage": "https://github.com/captainbboy/FreeCustomTimerBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security"
+  }
+}
